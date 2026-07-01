@@ -13,6 +13,7 @@ int main() {
     book library[100];
     int count = 0;
     while(true){
+        cout<<"=====Library Management ===="<<endl;
         cout<<"1. Add book"<<endl;
         cout<<"2. Show book"<<endl;
         cout<<"3. exit "<<endl;
